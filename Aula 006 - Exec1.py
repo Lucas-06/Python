@@ -46,3 +46,5 @@ print("Meu número é", divInt)
 time.sleep(1)
 print("Meu número é", restoDiv)
 time.sleep(1)
+
+
